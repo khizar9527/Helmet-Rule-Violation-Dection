@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['2, 3, 5, 7']
+
+roboflow:
+  workspace: college-e9cj2
+  project: license-plate-detection-l8xs4
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/college-e9cj2/license-plate-detection-l8xs4/dataset/1

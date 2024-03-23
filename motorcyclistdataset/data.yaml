@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['bike-riders']
+
+roboflow:
+  workspace: spresearchwork
+  project: motorcycle-riders-detection
+  version: 2
+  license: Public Domain
+  url: https://universe.roboflow.com/spresearchwork/motorcycle-riders-detection/dataset/2
