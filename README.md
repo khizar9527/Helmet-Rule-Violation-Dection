@@ -1,4 +1,15 @@
 # Helmet Rule Violation Detection
+
+Developed a robust system using OpenCV and Python for detecting helmet violations.Implemented advanced image processing techniques and machine learning algorithms to achieve high accuracy. Utilized Kaggle for dataset management and performed thorough model evaluation and optimization.
+
+## Requirements: ##
+
+Yolov V8
+tkinter
+PIL
+cv2
+cvzone
+
 Interface Of Helmet Rule Violation Detection
 ![image](https://github.com/user-attachments/assets/abc33280-3a04-464a-a755-84ce43087e62)
 Working
