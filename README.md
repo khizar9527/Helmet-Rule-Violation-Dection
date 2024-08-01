@@ -4,11 +4,11 @@ Developed a robust system using OpenCV and Python for detecting helmet violation
 
 ## Requirements: ##
 
-Yolov V8
-tkinter
-PIL
-cv2
-cvzone
+Yolov V8,
+tkinter,
+PIL,
+cv2,
+cvzone,
 
 Interface Of Helmet Rule Violation Detection
 ![image](https://github.com/user-attachments/assets/abc33280-3a04-464a-a755-84ce43087e62)
