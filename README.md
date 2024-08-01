@@ -2,4 +2,5 @@
 Interface Of Helmet Rule Violation Detection
 ![image](https://github.com/user-attachments/assets/abc33280-3a04-464a-a755-84ce43087e62)
 Working
-https://github.com/user-attachments/assets/d1d53246-3a41-43f1-bae2-4ec16f49f4a2
+https://github.com/user-attachments/assets/54ad3246-4ee5-424b-9ced-d321c74fb242
+
